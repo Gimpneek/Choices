@@ -1,5 +1,8 @@
+THIS PROJECT IS NO LONGER ACTIVELY MAINTAINED
+=============================================
+
 Choices
-=======
+-------
 *A PHP library that makes dealing with the NHS Choices API easier.*
 
 Choices was created by Colin Wren as a tool to help even the playing field when dealing with the NHS Choices API. There seems to be inconsistent data formats and pages of data. This library turns it all into JSON and will go through every page for you.
